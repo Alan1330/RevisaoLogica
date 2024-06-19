@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\bin\Debug\net8.0\Sequencia05.exe
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\bin\Debug\net8.0\Sequencia05.deps.json
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\bin\Debug\net8.0\Sequencia05.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\bin\Debug\net8.0\Sequencia05.dll
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\bin\Debug\net8.0\Sequencia05.pdb
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.dll
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\refint\Sequencia05.dll
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.pdb
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\Sequencia05.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\Sequencia05\obj\Debug\net8.0\ref\Sequencia05.dll

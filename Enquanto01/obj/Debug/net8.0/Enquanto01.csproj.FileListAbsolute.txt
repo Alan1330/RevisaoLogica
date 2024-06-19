@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\bin\Debug\net8.0\Enquanto01.exe
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\bin\Debug\net8.0\Enquanto01.deps.json
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\bin\Debug\net8.0\Enquanto01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\bin\Debug\net8.0\Enquanto01.dll
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\bin\Debug\net8.0\Enquanto01.pdb
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.dll
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\refint\Enquanto01.dll
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.pdb
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\Enquanto01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\Enquanto01\obj\Debug\net8.0\ref\Enquanto01.dll

@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\For07\bin\Debug\net8.0\For07.exe
+D:\dev\ws-csharp\projetos\secao03\For07\bin\Debug\net8.0\For07.deps.json
+D:\dev\ws-csharp\projetos\secao03\For07\bin\Debug\net8.0\For07.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\For07\bin\Debug\net8.0\For07.dll
+D:\dev\ws-csharp\projetos\secao03\For07\bin\Debug\net8.0\For07.pdb
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.dll
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\refint\For07.dll
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.pdb
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\For07.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\For07\obj\Debug\net8.0\ref\For07.dll

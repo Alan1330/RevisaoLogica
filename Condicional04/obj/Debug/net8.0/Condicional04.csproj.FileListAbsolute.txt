@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\Condicional04\bin\Debug\net8.0\Condicional04.exe
+D:\dev\ws-csharp\projetos\secao03\Condicional04\bin\Debug\net8.0\Condicional04.deps.json
+D:\dev\ws-csharp\projetos\secao03\Condicional04\bin\Debug\net8.0\Condicional04.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\Condicional04\bin\Debug\net8.0\Condicional04.dll
+D:\dev\ws-csharp\projetos\secao03\Condicional04\bin\Debug\net8.0\Condicional04.pdb
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.dll
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\refint\Condicional04.dll
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.pdb
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\Condicional04.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\Condicional04\obj\Debug\net8.0\ref\Condicional04.dll

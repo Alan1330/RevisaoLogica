@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\bin\Debug\net8.0\Sequecial01.exe
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\bin\Debug\net8.0\Sequecial01.deps.json
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\bin\Debug\net8.0\Sequecial01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\bin\Debug\net8.0\Sequecial01.dll
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\bin\Debug\net8.0\Sequecial01.pdb
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.dll
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\refint\Sequecial01.dll
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.pdb
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\Sequecial01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\Sequecial01\obj\Debug\net8.0\ref\Sequecial01.dll

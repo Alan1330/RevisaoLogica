@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Enquanto02/1.0.0": {
+        "runtime": {
+          "Enquanto02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enquanto02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

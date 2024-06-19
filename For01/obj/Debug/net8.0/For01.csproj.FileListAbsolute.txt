@@ -1,0 +1,14 @@
+D:\dev\ws-csharp\projetos\secao03\For01\bin\Debug\net8.0\For01.exe
+D:\dev\ws-csharp\projetos\secao03\For01\bin\Debug\net8.0\For01.deps.json
+D:\dev\ws-csharp\projetos\secao03\For01\bin\Debug\net8.0\For01.runtimeconfig.json
+D:\dev\ws-csharp\projetos\secao03\For01\bin\Debug\net8.0\For01.dll
+D:\dev\ws-csharp\projetos\secao03\For01\bin\Debug\net8.0\For01.pdb
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.AssemblyInfoInputs.cache
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.AssemblyInfo.cs
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.csproj.CoreCompileInputs.cache
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.dll
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\refint\For01.dll
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.pdb
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\For01.genruntimeconfig.cache
+D:\dev\ws-csharp\projetos\secao03\For01\obj\Debug\net8.0\ref\For01.dll
